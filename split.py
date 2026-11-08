@@ -24,15 +24,12 @@ def split_questions(questions, seed=42) :
         dev.extend(groupe[:n])
         test.extend(groupe[n:])
 
-    path_test= Path("eval/questions_tests.json")
+    path_test= Path("eval/questions_test.json")
     path_dev= Path("eval/questions_dev.json")
     path_test.parent.mkdir(parents=True,exist_ok=True)
     path_dev.parent.mkdir(parents=True,exist_ok=True)
     path_test.write_text(json.dumps(test,indent=2,ensure_ascii=False))
     path_dev.write_text(json.dumps(dev,indent=2,ensure_ascii=False),encoding="utf-8")
-
-
-
 
     return dev,test
 

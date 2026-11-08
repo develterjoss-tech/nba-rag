@@ -3,7 +3,7 @@ import json
 import re
 from pathlib import Path
 
-wiki = wikipediaapi.Wikipedia(user_agent="rag-nba-perso joss.applestore@gmail.com",language="en")
+wiki = wikipediaapi.Wikipedia(user_agent="rag-nba-perso joss-rayan.develter@edu.devinci.fr",language="en")
 
 EXCLUDED = {"References", "External links", "See also", "Notes", "Further reading"}
 RAW = Path("data/raw")

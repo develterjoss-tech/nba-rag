@@ -1,0 +1,89 @@
+[
+  {
+    "qid": "q08",
+    "type": "lexical",
+    "q": "Where does the Lakers nickname come from?",
+    "gold_ids": [
+      "los-angeles-lakers#history/1946-1954-beginnings-and-minneapolis-dynasty-with-george-mikan",
+      "los-angeles-lakers#name-logo-and-uniforms"
+    ]
+  },
+  {
+    "qid": "q06",
+    "type": "lexical",
+    "q": "Which team selected Victor Wembanyama first overall in the 2023 NBA draft?",
+    "gold_ids": [
+      "victor-wembanyama#summary",
+      "victor-wembanyama#professional-career/san-antonio-spurs-2023-present/2023-24-season-unanimous-rookie-of-the-year"
+    ]
+  },
+  {
+    "qid": "q03",
+    "type": "lexical",
+    "q": "What is the name of the Oklahoma City Thunder mascot?",
+    "gold_ids": [
+      "oklahoma-city-thunder#mascots/rumble-the-bison"
+    ]
+  },
+  {
+    "qid": "q09",
+    "type": "lexical",
+    "q": "How many games in a row did the Lakers win during the 1971-72 season?",
+    "gold_ids": [
+      "los-angeles-lakers#summary",
+      "los-angeles-lakers#history/1968-1973-the-arrival-of-wilt-chamberlain",
+      "los-angeles-lakers#franchise-and-nba-records"
+    ]
+  },
+  {
+    "qid": "q26",
+    "type": "multi",
+    "q": "How did the Spurs and the Thunder face each other in the 2026 playoffs?",
+    "gold_ids": [
+      "victor-wembanyama#professional-career/san-antonio-spurs-2023-present/2025-26-season-unanimous-defensive-player-of-the-year-and-first-nba-finals-appearance",
+      "shai-gilgeous-alexander#professional-career/oklahoma-city-thunder-2019-present/2025-26-back-to-back-mvps-and-clutch-player-of-the-year"
+    ]
+  },
+  {
+    "qid": "q27",
+    "type": "multi",
+    "q": "What did Stephen Curry and Victor Wembanyama each win at the 2024 Paris Olympics?",
+    "gold_ids": [
+      "stephen-curry#national-team-career",
+      "victor-wembanyama#national-team-career/senior-national-team/2024-summer-olympics"
+    ]
+  },
+  {
+    "qid": "q15",
+    "type": "paraphrase",
+    "q": "Why did the Seattle team end up playing in Oklahoma?",
+    "gold_ids": [
+      "oklahoma-city-thunder#summary",
+      "oklahoma-city-thunder#history/2008-2016-durant-and-westbrook-era/2008-2009-move-to-oklahoma-city-and-inaugural-season"
+    ]
+  },
+  {
+    "qid": "q14",
+    "type": "paraphrase",
+    "q": "Which French big man set the record for most rejections in a single playoff game?",
+    "gold_ids": [
+      "victor-wembanyama#professional-career/san-antonio-spurs-2023-present/2025-26-season-unanimous-defensive-player-of-the-year-and-first-nba-finals-appearance"
+    ]
+  },
+  {
+    "qid": "q23",
+    "type": "paraphrase",
+    "q": "Which Bulls legend won a Finals game while he was sick?",
+    "gold_ids": [
+      "michael-jordan#professional-career/chicago-bulls-1984-1993-1995-1998/second-three-peat-1996-1998"
+    ]
+  },
+  {
+    "qid": "q20",
+    "type": "paraphrase",
+    "q": "Which OKC guard filled every column of the stat sheet night after night in 2016-17 and was named MVP?",
+    "gold_ids": [
+      "oklahoma-city-thunder#history/2016-2019-russell-westbrook-era/2016-2017-durant-s-departure-and-westbrook-s-mvp-season"
+    ]
+  }
+]

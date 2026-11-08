@@ -1,0 +1,141 @@
+[
+  {"qid": "q01", "type": "lexical",
+   "q": "At what age did Derrick Rose win the NBA MVP award?",
+   "gold_ids": ["derrick-rose#summary",
+                "derrick-rose#professional-career/chicago-bulls-2008-2016/2010-11-season-mvp-season"]},
+
+  {"qid": "q02", "type": "lexical",
+   "q": "Why was the Oklahoma City franchise named the Thunder?",
+   "gold_ids": ["oklahoma-city-thunder#history/2008-2016-durant-and-westbrook-era/2008-2009-move-to-oklahoma-city-and-inaugural-season"]},
+
+  {"qid": "q03", "type": "lexical",
+   "q": "What is the name of the Oklahoma City Thunder mascot?",
+   "gold_ids": ["oklahoma-city-thunder#mascots/rumble-the-bison"]},
+
+  {"qid": "q04", "type": "lexical",
+   "q": "Which team drafted Shai Gilgeous-Alexander in the 2018 NBA draft?",
+   "gold_ids": ["shai-gilgeous-alexander#summary",
+                "shai-gilgeous-alexander#professional-career/los-angeles-clippers-2018-2019"]},
+
+  {"qid": "q05", "type": "lexical",
+   "q": "Which team did Stephen Curry beat in the 2022 NBA Finals?",
+   "gold_ids": ["stephen-curry#summary",
+                "stephen-curry#professional-career/golden-state-warriors-2009-present/all-time-3-point-scoring-record-fourth-championship-and-finals-mvp-2021-2022"]},
+
+  {"qid": "q06", "type": "lexical",
+   "q": "Which team selected Victor Wembanyama first overall in the 2023 NBA draft?",
+   "gold_ids": ["victor-wembanyama#summary",
+                "victor-wembanyama#professional-career/san-antonio-spurs-2023-present/2023-24-season-unanimous-rookie-of-the-year"]},
+
+  {"qid": "q07", "type": "lexical",
+   "q": "What was the Paycom Center called when it opened in 2002?",
+   "gold_ids": ["oklahoma-city-thunder#home-arenas/paycom-center-2008-present"]},
+
+  {"qid": "q08", "type": "lexical",
+   "q": "Where does the Lakers nickname come from?",
+   "gold_ids": ["los-angeles-lakers#history/1946-1954-beginnings-and-minneapolis-dynasty-with-george-mikan",
+                "los-angeles-lakers#name-logo-and-uniforms"]},
+
+  {"qid": "q09", "type": "lexical",
+   "q": "How many games in a row did the Lakers win during the 1971-72 season?",
+   "gold_ids": ["los-angeles-lakers#summary",
+                "los-angeles-lakers#history/1968-1973-the-arrival-of-wilt-chamberlain",
+                "los-angeles-lakers#franchise-and-nba-records"]},
+
+  {"qid": "q10", "type": "lexical",
+   "q": "Which baseball organization did Michael Jordan join after his first retirement?",
+   "gold_ids": ["michael-jordan#summary",
+                "michael-jordan#professional-career/chicago-bulls-1984-1993-1995-1998/first-retirement-and-stint-in-minor-league-baseball-1993-1995"]},
+
+  {"qid": "q11", "type": "lexical",
+   "q": "Which team signed Derrick Rose in July 2019?",
+   "gold_ids": ["derrick-rose#summary",
+                "derrick-rose#professional-career/detroit-pistons-2019-2021"]},
+
+  {"qid": "q12", "type": "lexical",
+   "q": "In which city was Shai Gilgeous-Alexander born?",
+   "gold_ids": ["shai-gilgeous-alexander#early-life"]},
+
+  {"qid": "q13", "type": "paraphrase",
+   "q": "Which player came back from injuries to drop 50 points for Minnesota?",
+   "gold_ids": ["derrick-rose#professional-career/minnesota-timberwolves-2018-2019"]},
+
+  {"qid": "q14", "type": "paraphrase",
+   "q": "Which French big man set the record for most rejections in a single playoff game?",
+   "gold_ids": ["victor-wembanyama#professional-career/san-antonio-spurs-2023-present/2025-26-season-unanimous-defensive-player-of-the-year-and-first-nba-finals-appearance"]},
+
+  {"qid": "q15", "type": "paraphrase",
+   "q": "Why did the Seattle team end up playing in Oklahoma?",
+   "gold_ids": ["oklahoma-city-thunder#summary",
+                "oklahoma-city-thunder#history/2008-2016-durant-and-westbrook-era/2008-2009-move-to-oklahoma-city-and-inaugural-season"]},
+
+  {"qid": "q16", "type": "paraphrase",
+   "q": "Which Canadian guard was the best player of the 2025 championship series?",
+   "gold_ids": ["shai-gilgeous-alexander#summary",
+                "shai-gilgeous-alexander#professional-career/oklahoma-city-thunder-2019-present/2024-25-mvp-season-scoring-title-nba-championship-and-finals-mvp"]},
+
+  {"qid": "q17", "type": "paraphrase",
+   "q": "How did Steph Curry help fight malaria?",
+   "gold_ids": ["stephen-curry#off-the-court/philanthropy"]},
+
+  {"qid": "q18", "type": "paraphrase",
+   "q": "Which player's own dad phoned teams to steer where his son would be picked?",
+   "gold_ids": ["stephen-curry#professional-career/golden-state-warriors-2009-present/early-years-2009-2012"]},
+
+  {"qid": "q19", "type": "paraphrase",
+   "q": "Which young star spent time training with kung fu monks before a season?",
+   "gold_ids": ["victor-wembanyama#professional-career/san-antonio-spurs-2023-present/2025-26-season-unanimous-defensive-player-of-the-year-and-first-nba-finals-appearance",
+                "victor-wembanyama#personal-life"]},
+
+  {"qid": "q20", "type": "paraphrase",
+   "q": "Which OKC guard filled every column of the stat sheet night after night in 2016-17 and was named MVP?",
+   "gold_ids": ["oklahoma-city-thunder#history/2016-2019-russell-westbrook-era/2016-2017-durant-s-departure-and-westbrook-s-mvp-season"]},
+
+  {"qid": "q21", "type": "paraphrase",
+   "q": "Why did SGA get his money back on a house he bought in Ontario?",
+   "gold_ids": ["shai-gilgeous-alexander#legal-issues"]},
+
+  {"qid": "q22", "type": "paraphrase",
+   "q": "Which superstar announced his comeback with a two-word statement?",
+   "gold_ids": ["michael-jordan#professional-career/chicago-bulls-1984-1993-1995-1998/return-to-the-nba-1995"]},
+
+  {"qid": "q23", "type": "paraphrase",
+   "q": "Which Bulls legend won a Finals game while he was sick?",
+   "gold_ids": ["michael-jordan#professional-career/chicago-bulls-1984-1993-1995-1998/second-three-peat-1996-1998"]},
+
+  {"qid": "q24", "type": "paraphrase",
+   "q": "Which basketball icon co-owns a stock car racing team?",
+   "gold_ids": ["michael-jordan#summary",
+                "michael-jordan#post-retirement/23xi-racing"]},
+
+  {"qid": "q25", "type": "multi",
+   "q": "Which teams did Derrick Rose play for right after leaving Chicago?",
+   "gold_ids": ["derrick-rose#professional-career/new-york-knicks-2016-2017",
+                "derrick-rose#professional-career/cleveland-cavaliers-2017-2018"]},
+
+  {"qid": "q26", "type": "multi",
+   "q": "How did the Spurs and the Thunder face each other in the 2026 playoffs?",
+   "gold_ids": ["victor-wembanyama#professional-career/san-antonio-spurs-2023-present/2025-26-season-unanimous-defensive-player-of-the-year-and-first-nba-finals-appearance",
+                "shai-gilgeous-alexander#professional-career/oklahoma-city-thunder-2019-present/2025-26-back-to-back-mvps-and-clutch-player-of-the-year"]},
+
+  {"qid": "q27", "type": "multi",
+   "q": "What did Stephen Curry and Victor Wembanyama each win at the 2024 Paris Olympics?",
+   "gold_ids": ["stephen-curry#national-team-career",
+                "victor-wembanyama#national-team-career/senior-national-team/2024-summer-olympics"]},
+
+  {"qid": "q28", "type": "multi",
+   "q": "Which individual awards did Shai Gilgeous-Alexander and Victor Wembanyama win for the 2025-26 regular season?",
+   "gold_ids": ["shai-gilgeous-alexander#professional-career/oklahoma-city-thunder-2019-present/2025-26-back-to-back-mvps-and-clutch-player-of-the-year",
+                "victor-wembanyama#professional-career/san-antonio-spurs-2023-present/2025-26-season-unanimous-defensive-player-of-the-year-and-first-nba-finals-appearance"]},
+
+  {"qid": "q29", "type": "multi",
+   "q": "Which Thunder stars were traded to the Houston Rockets over the years?",
+   "gold_ids": ["oklahoma-city-thunder#history/2008-2016-durant-and-westbrook-era/2012-2016-post-finals-appearance-years-and-harden-s-departure/2012-2013",
+                "oklahoma-city-thunder#history/2019-present-shai-gilgeous-alexander-era/2019-2020-chris-paul-year"]},
+
+  {"qid": "q30", "type": "multi",
+   "q": "How did Anthony Davis arrive in Los Angeles, and who did the Lakers get when they traded him away?",
+   "gold_ids": ["los-angeles-lakers#summary",
+                "los-angeles-lakers#history/2018-2025-the-lebron-james-era/2019-2025-james-and-davis-era",
+                "los-angeles-lakers#history/2025-present-the-luka-don-i-era/2025-don-i-arrives"]}
+]
